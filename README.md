@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bapaero
+- 👀 I’m interested by cryptocurency and webdev
+- 🌱 I’m currently learning machine learning and IA things
